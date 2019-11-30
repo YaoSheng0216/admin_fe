@@ -16,7 +16,7 @@
   "author": "Rosen",
   "license": "ISC",
   "dependencies": {
-    "bootstrap": "^3.3.7",
+    "bootstrap": "^3.4.1",
     "font-awesome": "^4.6.3",
     "rc-pagination": "^1.7.1",
     "react": "^15.4.2",
