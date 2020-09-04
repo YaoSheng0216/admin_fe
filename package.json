@@ -37,7 +37,7 @@
     "html-loader": "^0.4.3",
     "html-webpack-plugin": "^2.26.0",
     "jsx-loader": "^0.13.2",
-    "node-sass": "^4.5.0",
+    "node-sass": "^4.13.1",
     "sass-loader": "^5.0.1",
     "style-loader": "^0.13.0",
     "url-loader": "^0.5.7",
